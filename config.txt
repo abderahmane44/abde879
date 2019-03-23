@@ -1,7 +1,6 @@
 owner=540493608705327115
 prefix=l
 game=Private Music Bot
-
 stayinchannel=true
 songinstatus=false
 token=NTU4MjMyMzE4MzMwOTI5MTYy.D3d6zg.i94INxfA674excRhdurP0GXDelk
